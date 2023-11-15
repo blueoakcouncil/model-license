@@ -28,7 +28,7 @@ Each contributor licenses you to do everything with this software that would oth
 
 ## Reliability
 
-No contributor can revoke this license.
+Contributors cannot revoke this license.
 
 ## No Liability
 
